@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muthukrishnan
 - 👀 I’m interested in Coding, web and app development, AI, Machine learning!
-- 🌱 I’m currently learning BCA 2nd year
+  
 - 💞️ I’m looking to collaborate on projects relatec to web and app development, Machine learning.
 - 📫 How to reach me muthukrishnan8733@gmail.com
 - 😄 Pronouns: He/Him
